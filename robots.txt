@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: luchshie-kazino-s-vyvodom-deneg.github.io
+Sitemap: https://luchshie-kazino-s-vyvodom-deneg.github.io/sitemap.xml
